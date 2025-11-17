@@ -78,8 +78,9 @@ Enter x values (space separated): 25 28 35 32 31 36 29 38 34 32
 Enter y values (space separated): 43 46 49 41 36 32 31 30 33 39
 The Correlation coefficient is -0.394
 The Regression line Y on X is ::: y = 38.000 + -0.664 (x-32.000)
-<img width="727" height="551" alt="Screenshot (20)(1)(1)" src="https://github.com/user-attachments/assets/63171968-c541-452d-8393-9e6384dbb0a8" />
 ```
+<img width="727" height="551" alt="Screenshot (20)(1)(1)" src="https://github.com/user-attachments/assets/2999db66-5afe-423a-bc73-2b67df79a258" />
+
 
 
 
